@@ -1,0 +1,44 @@
+.margin-top-15{
+    margin-top: 15px;
+}
+.margin-10{
+    margin: 10px;
+}
+.float-right{
+    float: right !important;
+}
+.center{
+    text-align: center;
+}
+input{
+    outline: none;
+}
+.width-100-percent{
+    width: 100%;
+}
+#example1_wrapper .row .col-sm-12 .row .row .col-sm-6 h3,h2 {
+    margin: 0;
+}
+.btn-border{
+    border: solid 1px rebeccapurple;
+    background: rebeccapurple;
+    color: white;
+}
+.btn-border:hover{
+    border: solid 1px saddlebrown;
+    transition: 10ms;
+    color: yellowgreen;
+}
+.margin-top-0{
+    margin-top: 0;
+}
+
+
+
+/* popup */
+
+.card .row .box{
+    background: white;
+    width: 400px;
+    height: auto;
+}
